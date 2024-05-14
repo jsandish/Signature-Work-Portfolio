@@ -1,7 +1,7 @@
 # Signature Work Portfolio
 
 ## Project 1 - Heardle Game
-This is a game inspired by "Heardle" where players are given increasingly longer snippets of music and they have to guess what the song is. This implementation utilizes the Spotify API to allow users to use their own music and select which playlist to play music from.
+This is a python game ran in the console inspired by "Heardle" where players are given increasingly longer snippets of music and they have to guess what the song is. This implementation utilizes the Spotify API to allow users to use their own music and select which playlist to play music from.
 
 https://github.com/jsandish/Heardle 
 
